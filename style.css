@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+body {width: 960px;
+		margin: 0 auto;}
+body{font-size: 20px}
+html{
+	color:#486ee0;;
+	background-color: #CDFCC7;
+}
+a{
+	color:#486ee0;
+}
+h3{text-align: center}
+
+h1{text-align: center}
+h1{font-size:50px}
+h1{font-family:Georgia, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+
+
+
+h2{text-align: center}
+h2{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+h2{font-size: 30px}
+
+h4{height: 5px;
+	width:960px;}
+
+h9{font-size: large}
+h9{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+h9{text-decoration: none}
+
+a{
+	text-decoration: none;
+	
+}
+
+a:visited{
+	color:purple;
+}
+
+a:hover{
+	color:blue;
+}
+h10{text-align: center}
+
+.nav_bar {
+background: #F5C0FA ;
+border: 1 px solid #000000;
+width: 900 px;
+margin: auto;
+font-size: 22px;
+font-weight: bold;
+text-transform: none;
+padding: 10px 20px 10px 20px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+text-align: center;
+
+}
+
+nav{
+	margin: 50px;
+background-color: #F5C0FA
+}
+
+h13{font-size: 30px}
+h3{font-size: 50px;}
